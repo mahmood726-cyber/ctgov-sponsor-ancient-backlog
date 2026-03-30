@@ -1,0 +1,57 @@
+{
+  "title": "CT.gov Sponsor Ancient Backlog",
+  "slug": "ctgov-sponsor-ancient-backlog",
+  "author": "Mahmood Ahmad",
+  "date": "2026-03-29",
+  "path": "C:\\Projects\\ctgov-sponsor-ancient-backlog",
+  "type": "methods",
+  "primary_estimand": "Ancient-backlog stock among older closed interventional studies unresolved at least ten overdue years beyond the two-year mark",
+  "summary": "A standalone E156 project on which named sponsors still hold the deepest stock of CT.gov studies unresolved more than a decade beyond the reporting mark.",
+  "body": "Which named CT.gov sponsors still hold the largest stock of studies unresolved at least ten overdue years beyond the two-year reporting mark? We analysed 249,507 eligible older closed interventional studies from the March 29, 2026 full-registry snapshot. We defined ancient backlog as older studies with no posted results and at least ten overdue years beyond the two-year mark, then ranked sponsors with at least 100 studies. GlaxoSmithKline led the named-sponsor table at 1,045 studies, followed by National Cancer Institute at 787 and Boehringer Ingelheim at 748. Sanofi remained high on stock at 650, while Ranbaxy Laboratories Limited reached 100.0 percent and Mylan Pharmaceuticals Inc reached 96.8 percent among large sponsors. Ancient backlog isolates a harder core of silence than ordinary missing-results counts because these records remained unresolved for more than a decade after deadline. This registry-timing definition does not assign legal responsibility, explain delay, or prove total absence of dissemination outside linked CT.gov fields for readers.",
+  "sentences": [
+    {
+      "role": "Question",
+      "text": "Which named CT.gov sponsors still hold the largest stock of studies unresolved at least ten overdue years beyond the two-year reporting mark?"
+    },
+    {
+      "role": "Dataset",
+      "text": "We analysed 249,507 eligible older closed interventional studies from the March 29, 2026 full-registry snapshot."
+    },
+    {
+      "role": "Method",
+      "text": "We defined ancient backlog as older studies with no posted results and at least ten overdue years beyond the two-year mark, then ranked sponsors with at least 100 studies."
+    },
+    {
+      "role": "Primary result",
+      "text": "GlaxoSmithKline led the named-sponsor table at 1,045 studies, followed by National Cancer Institute at 787 and Boehringer Ingelheim at 748."
+    },
+    {
+      "role": "Secondary result",
+      "text": "Sanofi remained high on stock at 650, while Ranbaxy Laboratories Limited reached 100.0 percent and Mylan Pharmaceuticals Inc reached 96.8 percent among large sponsors."
+    },
+    {
+      "role": "Interpretation",
+      "text": "Ancient backlog isolates a harder core of silence than ordinary missing-results counts because these records remained unresolved for more than a decade after deadline."
+    },
+    {
+      "role": "Boundary",
+      "text": "This registry-timing definition does not assign legal responsibility, explain delay, or prove total absence of dissemination outside linked CT.gov fields for readers."
+    }
+  ],
+  "notes": {
+    "app": "CT.gov Sponsor Ancient Backlog dashboard",
+    "data": "249,507 eligible older closed interventional studies with ancient-backlog stock, rate, and overdue-years summaries",
+    "code": "https://github.com/mahmood726-cyber/ctgov-sponsor-ancient-backlog",
+    "doi": "",
+    "version": "1.0.0",
+    "date": "2026-03-29",
+    "validation": "FULL REGISTRY RUN"
+  },
+  "affiliation": "Tahir Heart Institute",
+  "email": "author@example.com",
+  "references": [
+    "ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.",
+    "DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369.",
+    "Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004."
+  ]
+}
