@@ -3,7 +3,7 @@
   "slug": "ctgov-sponsor-ancient-backlog",
   "author": "Mahmood Ahmad",
   "date": "2026-03-29",
-  "path": "C:\\Projects\\ctgov-sponsor-ancient-backlog",
+  "path": "C:\\Projects\\ctgov-analyses/ctgov-sponsor-ancient-backlog",
   "type": "methods",
   "primary_estimand": "Ancient-backlog stock among older closed interventional studies unresolved at least ten overdue years beyond the two-year mark",
   "summary": "A standalone E156 project on which named sponsors still hold the deepest stock of CT.gov studies unresolved more than a decade beyond the reporting mark.",
@@ -48,10 +48,11 @@
     "validation": "FULL REGISTRY RUN"
   },
   "affiliation": "Tahir Heart Institute",
-  "email": "author@example.com",
+  "email": "mahmood.ahmad2@nhs.net",
   "references": [
     "ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.",
     "DeVito NJ, Bacon S, Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. Lancet. 2020;395(10221):361-369.",
     "Zarin DA, Tse T, Williams RJ, Carr S. Trial reporting in ClinicalTrials.gov. N Engl J Med. 2016;375(20):1998-2004."
-  ]
+  ],
+  "submitted": false
 }
